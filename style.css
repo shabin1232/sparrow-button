@@ -113,7 +113,7 @@ svg {
 .button:active {
 	--box-glow-blur: 36px;
 }
-.button:hover,
+.button:GUILD RULES,
 .button:active {
 	--box-glow-color: var(--color);
 }
